@@ -13,3 +13,7 @@ public class Ac {
 		return 0.5*x*y;
 	}
 }
+
+
+
+////Errors Cleared///
